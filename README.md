@@ -14,8 +14,7 @@
 
 ### 3. Запись клиента на встречу и добавление встречи в Google Календарь
 Одной из ключевых функций бота является возможность записи клиентов на онлайн-консультации с детективом. После того как пользователь выбирает удобное время, встреча автоматически добавляется в Google Календарь.
-![Иллюстрация к проекту](https://github.com/ANVod/ai_assistant_OSINT/blob/main/Скрин%20Бот.jpg)
-![Иллюстрация к проекту](https://github.com/ANVod/ai_assistant_OSINT/blob/main/Скрин%20бот%202.jpg)
+
 ## Используемые сервисы
 
 ### Qwen
@@ -34,12 +33,11 @@
    - Бот: Конечно! Выберите удобное для вас время: [ссылка на Google Calendar].
 
 ## Скриншоты
-
-![Скриншот 1](URL_на_скриншот_1)
-![Скриншот 2](URL_на_скриншот_2)
+![Иллюстрация к проекту](https://github.com/ANVod/ai_assistant_OSINT/blob/main/Скрин%20Бот.jpg)
+![Иллюстрация к проекту](https://github.com/ANVod/ai_assistant_OSINT/blob/main/Скрин%20бот%202.jpg)
+![Иллюстрация к проекту](https://github.com/ANVod/ai_assistant_OSINT/blob/main/Скриншот%2026-02-2025%20164107.jpg)
 
 ## Ссылки
-
 - **Telegram-бот:** [@I_detective_bot](https://t.me/I_detective_bot)
 - **Google Календарь:** [Ссылка на запись события](https://calendar.google.com/)
 
